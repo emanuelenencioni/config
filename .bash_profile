@@ -4,4 +4,4 @@ export EDITOR='vim'
 
 export CLICOLOR=1
 
-source .bashrc
+source ~/.bashrc
